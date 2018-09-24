@@ -1,0 +1,13 @@
+train.x: the data of training set
+train.y: the data of training labels
+train.subject: the data of training subjects
+test.x: the data of testing set
+test.y: the data of testing labels
+test.subject: the data of testing subjects
+trainData: the complete dataset for training group
+testData: the complete dataset for testing group
+wholeData: the whole dataset for the experiment
+featureName: the names of variables
+fearureIndex: the index indicating where the expected variables locate
+Data: the dataset containing only the mean and std variables
+groupData: the dataset containing the average of each variable for each activity and each subject.
